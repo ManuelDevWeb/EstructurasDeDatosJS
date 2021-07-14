@@ -1,0 +1,13 @@
+Estructuras de datos son colecciones de valores, las relaciones entre ellos y las funciones u operaciones 
+que se pueden aplicar a los datos.
+
+Nos ayudan a:
+-> Solucionar problemas
+-> Guardar datos
+-> Estructurar datos
+
+
+-> Existen diferentes formas para guardar información
+-> Nos ayudan a resolver problemas en especifico
+-> No todas son buenas para todos los casos
+-> JavaScript de por si no tiene algunas estructuras de datos construidas ⇒ Nosotros debemos construirlas
